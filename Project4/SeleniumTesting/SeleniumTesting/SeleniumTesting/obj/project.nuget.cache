@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VQhTX8X8SGYW+OxfbSMarO4EJxhTJ0FI2IsM8mQkaw2sE29X4oRw5beEIBvknoJ95fa5B6i+63c7GCY0zQgZ2A==",
+  "success": true,
+  "projectFilePath": "E:\\Phase4\\SeleniumTesting\\SeleniumTesting\\SeleniumTesting\\SeleniumTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\selenium.webdriver\\4.6.0\\selenium.webdriver.4.6.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\selenium.webdriver.chromedriver\\108.0.5359.7100\\selenium.webdriver.chromedriver.108.0.5359.7100.nupkg.sha512"
+  ],
+  "logs": []
+}
