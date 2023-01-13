@@ -1,6 +1,6 @@
 # Project1_Cource4
 
-like toe this wepsite in Azure App Service:https://pizzaproject.azurewebsites.net
+
 Create a Prototype for Joe’s Pizza Portal Using Selenium, NUnit, and SpecFlow to Develop and Test. Deploy it into Azure VM Using Jenkins
 Create a Prototype for Joe’s Pizza Portal Using Selenium, NUnit, and SpecFlow to Develop and Test. Deploy it into Azure VM Using Jenkins
 Course-end Project 1
